@@ -1,0 +1,25 @@
+.App-main {
+  text-align: center;
+  background-color: #FDFDFD;
+}
+
+.App-header {
+  background-color: #98307F;
+  height: 125px;
+  padding: 20px;
+  color: #FDFDFD;
+  box-shadow: 0 5px 10px 0 #272727
+}
+
+.App-title {
+  font-size: 5em;
+}
+
+.App-intro {
+  color: #4392F1;
+  padding: 20px;
+}
+
+.card {
+    box-shadow: 0 5px 10px 0 #272727
+}
